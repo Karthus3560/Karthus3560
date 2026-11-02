@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="392" viewBox="0 0 900 392" role="img" aria-label="About Ghaith">
+<style>
+  text { font:15px 'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace; white-space:pre }
+  @keyframes cur { 0%,49% { opacity:1 } 50%,100% { opacity:0 } }
+  .cur { animation:cur 1s steps(1) infinite }
+</style>
+<defs>
+  <linearGradient id="tb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140f26"/><stop offset="1" stop-color="#1f1238"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4fa3"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#2dd4bf"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="8s" repeatCount="indefinite"/></linearGradient>
+</defs>
+<rect x="2" y="2" width="896" height="388" rx="16" fill="url(#tb)" stroke="url(#edge)" stroke-width="2"/>
+<rect x="2" y="2" width="896" height="44" rx="16" fill="#ffffff" fill-opacity=".04"/>
+<circle cx="30" cy="24" r="6.5" fill="#ff5f57"/><circle cx="52" cy="24" r="6.5" fill="#febc2e"/><circle cx="74" cy="24" r="6.5" fill="#28c840"/>
+<text x="450.0" y="29" text-anchor="middle" fill="#8b7fb0" style="font-size:13px">ghaith@night-desk: ~</text>
+<g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0000;0.0156;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="92" fill="#ff4fa3" font-weight="700">$</text><text x="58" y="92" fill="#f5e9ff">whoami</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0688;0.0844;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="119" fill="#c4b5fd" font-weight="700">→</text><text x="58" y="119" fill="#d8cff0">Ghaith · Windows apps, game mods &amp; Arabic game patches</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.1375;0.1531;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="146" fill="#ff4fa3" font-weight="700">$</text><text x="58" y="146" fill="#f5e9ff">cat day-job.txt</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2063;0.2219;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="173" fill="#c4b5fd" font-weight="700">→</text><text x="58" y="173" fill="#d8cff0">HR and healthcare systems by day, tools for games by night</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2750;0.2906;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="200" fill="#ff4fa3" font-weight="700">$</text><text x="58" y="200" fill="#f5e9ff">ls ~/shipped</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.3438;0.3594;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="227" fill="#c4b5fd" font-weight="700">→</text><text x="58" y="227" fill="#d8cff0">G-Tools  Kinship-Studio  Hypnophobia-AR  Folder-Icon-Studio  Neon-2048  Crewroom</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.4125;0.4281;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="254" fill="#ff4fa3" font-weight="700">$</text><text x="58" y="254" fill="#f5e9ff">echo $FUEL</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.4813;0.4969;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="281" fill="#c4b5fd" font-weight="700">→</text><text x="58" y="281" fill="#d8cff0">coffee ☕ + white-pink energy cans 🩷</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.5500;0.5656;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="308" fill="#ff4fa3" font-weight="700">$</text><text x="58" y="308" fill="#f5e9ff">status --now</text></g><g opacity="0"><animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.6188;0.6344;0.9625;1" values="0;0;1;1;0"/>
+      <text x="34" y="335" fill="#4ade80" font-weight="700">●</text><text x="58" y="335" fill="#bbf7d0">online · building G-Tools 1.5.0 (print studio + PDF tools)</text></g>
+<rect class="cur" x="34" y="366" width="10" height="18" fill="#ff4fa3"/>
+</svg>
