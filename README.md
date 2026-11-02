@@ -8,7 +8,7 @@
 
 <a href="https://karthus3560.github.io/g-scanner-releases/"><img src="https://img.shields.io/badge/G--Tools-office%20suite-a84f2d?style=for-the-badge&labelColor=1b1430" alt="G-Tools" /></a>
 <a href="#-featured-projects"><img src="https://img.shields.io/badge/Game-mods-7c3aed?style=for-the-badge&labelColor=1b1430" alt="Game mods" /></a>
-<a href="#بالعربية"><img src="https://img.shields.io/badge/تعريب-Arabic%20patches-ff4fa3?style=for-the-badge&labelColor=1b1430" alt="Arabic patches" /></a>
+<a href="#بالعربية"><img src="https://img.shields.io/badge/Arabic-game%20patches-ff4fa3?style=for-the-badge&labelColor=1b1430" alt="Arabic patches" /></a>
 <a href="https://karthus3560.github.io/crewroom/"><img src="https://img.shields.io/badge/AI-agents-2dd4bf?style=for-the-badge&labelColor=1b1430" alt="AI agents" /></a>
 <img src="https://komarev.com/ghpvc/?username=Karthus3560&label=visitors&color=ff4fa3&style=for-the-badge&labelColor=1b1430" alt="Profile visitors" />
 
